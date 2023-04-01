@@ -1100,52 +1100,5 @@ catch (Exception e)
 }
 
 
-comp_CMB_BarrioFisicos.setReadonly(true);
-comp_CMB_BarrioFisicosSC.setReadonly(true);
-comp_CMB_distritoFisico.setReadonly(true);
-comp_CMB_distritoFisicoSC.setReadonly(true);
-comp_CMB_BarrioFisicos.setReadonly(true);
-comp_CMB_BarrioFisicosSC.setReadonly(true);
-comp_CMB_cpFisico.setReadonly(true);
-comp_CMB_cpFisicoSC.setReadonly(true);
-
-comp_CMB_BarrioFisicos.setStyle("background-color: white");
-comp_CMB_BarrioFisicosSC.setStyle("background-color: white");
-comp_CMB_distritoFisico.setStyle("background-color: white");
-comp_CMB_distritoFisicoSC.setStyle("background-color: white");
-comp_CMB_BarrioFisicos.setStyle("background-color: white");
-comp_CMB_BarrioFisicosSC.setStyle("background-color: white");
-comp_CMB_cpFisico.setStyle("background-color: white");
-comp_CMB_cpFisicoSC.setStyle("background-color: white");
 
 
-
-
-
-comp_CMB_distritoPostals.setReadonly(true);
-comp_CMB_callePostal.setReadonly(true);
-comp_CMB_barrioPostal.setReadonly(true);
-comp_CMB_cpPostal.setReadonly(true);
-//comp_BANDBOX_cpPostal.setReadonly(true);
-//comp_BANDBOX_callePostal.setReadonly(true);
-//comp_BANDBOX_barrioPostal.setReadonly(true);
-
-//comp_CMB_CutPHCalle.setReadonly(true);COMENTADO 
-
-comp_CMB_distritoPostals.setStyle("background-color: white");
-comp_CMB_callePostal.setStyle("background-color: white");
-comp_CMB_barrioPostal.setStyle("background-color: white");
-comp_CMB_cpPostal.setStyle("background-color: white");
-//comp_CMB_CutPHCalle.setStyle("background-color: white");comentado
-
-
-//asasafafafaf
-
-
-
-
-comp_CMB_calleFisico.setReadonly(true);
-comp_CMB_calleFisico.setStyle("background-color: white");
-//MODIFICADO PJUAREZ 27/10
-/*Textbox comp_TXT_tipoPersona=(Textbox) sup.getInstanciaComponente("comp_TXT_tipoPersona");
-comp_TXT_tipoPersona.setValue("PFI");*/
